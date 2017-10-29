@@ -1,3 +1,9 @@
+## Welcome to my Repository Pages.
+
+I'm not much of a programmer, but I do experiment.  I primarily use Git to put various useful files into version control.  This is especially true of the files which are used to manage the intialisation of my Emacs setup.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/richardfieldsend/richardfieldsend.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
